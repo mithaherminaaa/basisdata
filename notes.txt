@@ -1,0 +1,4 @@
+jobdesk
+- membuat database apotek
+- buat 5 table
+- input data
